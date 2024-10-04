@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @yuliamg
+- 👀 I’m interested in computational biophysics
+- 🌱 I’m currently learning a lot!
